@@ -20,14 +20,6 @@ This is a simple web application that displays the current weather of selected I
 This project uses static data for weather information. The weather details are predefined in the `script.js` file. To modify or extend the project:
 - Update the `weatherData` object in `script.js` to include more cities or realistic weather data.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-For more details on OpenWeatherMap API integration or further development, refer to the [OpenWeatherMap website](https://openweathermap.org/).
-```
 
 ### Explanation:
 
